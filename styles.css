@@ -1,0 +1,27 @@
+h1 {
+    color: rosybrown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    
+   /* px ist die angabe der Größe in Pixel*/ 
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*Der Hintergrund ist weiß*/
+body {
+    background-color: ghostwhite
+}
+
+p {
+    color: darkslategrey
+}
+
+h2 {
+    color: rosybrown
+}
+
+table {
+    color: darkslategray
+}
